@@ -14,3 +14,9 @@ section {
     gap: .8rem;
     justify-content: left;
 }
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
